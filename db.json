@@ -1,0 +1,60 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "abc",
+      "price": 100,
+      "type": "RAM",
+      "profit": 0.6
+    },
+    {
+      "id": 2,
+      "name": "Aab",
+      "price": 1200,
+      "type": "RAM",
+      "profit": 0.7
+    },
+    {
+      "id": 3,
+      "name": "asdb",
+      "price": 1020,
+      "type": "MOTHERBOARD",
+      "profit": 0.8
+    },
+    {
+      "id": 4,
+      "name": "absa",
+      "price": 1010,
+      "type": "GRAPHICS",
+      "profit": 0.65
+    },
+    {
+      "id": 5,
+      "name": "acbsd",
+      "type": "RAM",
+      "price": 2000,
+      "profit": 0.6
+    },
+    {
+      "id": 6,
+      "name": "AGD",
+      "type": "MOTHERBOAD",
+      "price": 2000,
+      "profit": 0.5
+    },
+    {
+      "id": 7,
+      "name": "Hela",
+      "type": "GRAPHICS",
+      "price": 2000,
+      "profit": 0.4
+    },
+    {
+      "name": "ha",
+      "price": "",
+      "type": "",
+      "profit": "0.5",
+      "id": 8
+    }
+  ]
+}
